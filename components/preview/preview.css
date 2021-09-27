@@ -1,0 +1,9 @@
+.preview {
+  background: rgb(243, 242, 242);
+  font-size: 0;
+  flex: 1;
+}
+
+.preview__card {
+  width: 33.3333%;
+}
